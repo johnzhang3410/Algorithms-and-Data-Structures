@@ -1,0 +1,47 @@
+new
+empty 1
+size 0
+push_front 100
+!! 101
+!! 102
+empty 0
+size 3
+pop_front
+front 101
+
+back 100
+empty 0
+size 2
+push_back 102
+back 102
+front 101
+size 3
+count 100 1
+push_front 100
+count 100 2
+
+size 4
+back 102
+pop_back
+size 3
+back 100
+erase 100 2
+size 1
+front 101
+back 101
+count 101 1
+
+details
+push_front 100
+details
+push_back 101
+details
+size 3
+front 100
+back 101
+count 101 2
+
+delete 
+details
+
+
