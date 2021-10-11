@@ -201,7 +201,7 @@ typename Double_sentinel_list<Type>::Double_node *Double_sentinel_list<Type>::fi
 	Double_node *new_head{list_head->next_node}; //Created a double node new_head to traverse the list with
 	
 	//Traverse the list, and returns the address of new_head if value match, else update new_head to next()
-	while (!empty()){
+	while (new_head != list_tail){
 		
 		if (new_head->value() == new_value){
 			return new_head;
