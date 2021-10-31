@@ -1,0 +1,6 @@
+new: 17
+size 0
+capacity 17
+front!
+back!
+

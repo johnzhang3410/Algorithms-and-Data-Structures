@@ -1,0 +1,109 @@
+new
+push_front 30.1
+size 1
+empty 0
+front 30.1
+back 30.1
+push_front 29.1
+size 2
+empty 0
+front 29.1
+back 30.1
+push_back 31.1
+size 3
+front 29.1
+back 31.1
+push_front 28.1
+push_front 27.1
+push_front 26.1
+push_front 25.1
+push_front 24.1
+push_front 23.1
+push_front 22.1
+push_front 21.1
+push_front 20.1
+push_back 32.1
+push_back 33.1
+push_back 34.1
+push_back 35.1
+front 20.1
+back 35.1
+size 16
+push_back 36.1
+size 17
+capacity 32
+push_back 37.1
+push_back 38.1
+push_back 39.1
+push_back 40.1
+push_back 41.1
+push_back 42.1
+push_back 43.1
+push_back 44.1
+push_back 45.1
+push_back 46.1
+push_back 47.1
+push_back 38.1
+push_back 49.1
+push_back 50.1
+push_front 19.1
+size 32
+capacity 32
+push_front 18.1
+push_front 17.1
+push_front 16.1
+size 35
+capacity 64
+clear
+delete
+new: 23
+push_back 1
+push_back 2
+push_back 3
+push_back 4
+push_back 5
+push_back 6
+push_back 7
+push_back 8
+push_back 9
+push_back 10
+push_back 11
+push_back 12
+push_back 13
+push_back 14
+push_back 15
+push_back 16
+push_back 17
+push_back 18
+push_back 19
+push_back 20
+push_back 21
+push_back 22
+push_back 23
+size 23
+capacity 23
+push_back 24
+size 24
+capacity 46
+pop_back
+pop_back
+pop_back
+pop_back
+pop_back
+pop_back
+pop_back
+pop_back
+pop_back
+pop_back
+pop_back
+pop_back
+size 12
+capacity 46
+pop_back
+size 11
+capacity 23
+front 1
+back 11
+clear
+delete
+exit
