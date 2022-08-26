@@ -7,12 +7,12 @@ Project 1: Doubly linked list class with sentinels, optimized code for clarity a
 
 Project 2: Resizable deque implemented with circular array 
 
-[X]Array Class
-[]Linked List
-[]Stacks
-[]Queues
-[]Hash Tables
-[]Binary Trees
-[]AVL Trees
-[]Heaps
-[]Graphs
+[X]Array Class 
+[]Linked List 
+[]Stacks 
+[]Queues 
+[]Hash Tables 
+[]Binary Trees 
+[]AVL Trees 
+[]Heaps 
+[]Graphs 
