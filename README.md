@@ -18,5 +18,3 @@ Following are (will) be implemented using Java, in VSCode:
 []AVL Trees 
 []Heaps 
 []Graphs 
-[x]Linked List
-[x]Priority Queue
