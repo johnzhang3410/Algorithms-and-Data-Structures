@@ -10,11 +10,12 @@ Project 2: Resizable deque implemented with circular array
 Following are (will) be implemented using Java, in VSCode: 
 
 [X]Array Class  
-[]Linked List 
-[]Stacks 
-[]Queues 
-[]Hash Tables 
-[]Binary Trees 
-[]AVL Trees 
-[]Heaps 
-[]Graphs 
+[]Linked List  
+[]Stacks  
+[]Queues  
+[]Hash Tables  
+[]Binary Trees  
+[]AVL Trees  
+[]Heaps  
+[]Graphs  
+ 
