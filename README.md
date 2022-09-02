@@ -11,7 +11,7 @@ Following are (will be) implemented using Java, in VSCode:
 
 [X]Array Class  
 [X]Linked List  
-[]Stacks  
+[X]Stacks  
 []Queues  
 []Hash Tables  
 []Binary Trees  
