@@ -13,7 +13,7 @@ Following are (will be) implemented using Java, in VSCode:
 [X]Linked List  
 [X]Stacks  
 [X]Queues  
-[]Hash Tables  
+[X]Hash Tables  
 []Binary Trees  
 []AVL Trees  
 []Heaps  
