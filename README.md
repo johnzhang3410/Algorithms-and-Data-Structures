@@ -14,7 +14,7 @@ Following are (will be) implemented using Java, in VSCode:
 [X]Stacks  
 [X]Queues  
 [X]Hash Tables  
-[]Binary Trees  
+[]Binary Search Tree  
 []AVL Trees  
 []Heaps  
 []Graphs  
